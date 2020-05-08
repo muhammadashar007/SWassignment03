@@ -1,0 +1,27 @@
+.h-2 {
+    background: -webkit-linear-gradient(greenyellow, lightblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.pic-center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.img-a {
+  width: 260px;
+  height: 150px;
+  transition: all 1s;
+}
+.fa {
+  margin-left: -40px;
+  list-style-type: none;
+}
+.icon-color {
+  color: green;
+}
+
+.img-a:hover {
+  transform: scale(1.1);
+}
